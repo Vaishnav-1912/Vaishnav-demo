@@ -1,3 +1,3 @@
 # Vaishnav-demo
-This is my first repo \br
+This is my first repo <br>
 Author-vaishnav
